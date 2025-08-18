@@ -1,1 +1,3 @@
-rongxiaotong by java
+融销通：农业产品销售的网页端部分
+技术栈：java+vue2
+
